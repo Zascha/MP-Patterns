@@ -1,0 +1,10 @@
+BehavioralPatterns/BehavioralPatterns/obj/
+BehavioralPatterns/packages/
+BehavioralPatterns/WindowsService/obj/
+CreationalPatterns/CreationalPatterns.Tests/obj/
+CreationalPatterns/CreationalPatterns/obj/
+CreationalPatterns/packages/
+BehavioralPatterns/BehavioralPatterns.Tests/bin/
+BehavioralPatterns/BehavioralPatterns.Tests/obj/
+CreationalPatterns/CreationalPatterns.Tests/bin/
+BehavioralPatterns/WindowsService/bin/Debug/WindowsService.exe.config
